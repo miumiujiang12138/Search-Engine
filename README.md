@@ -6,7 +6,7 @@
 2、网络编程
 3、jieba分词
 4、最小距离推荐算法
-5、redis实现缓存
+5、LRU实现缓存
 ## 项目开发环境
 + Linux:Ubuntu18.04
 + G++:Version 4.8.4
